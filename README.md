@@ -1,1 +1,1 @@
-"# Spatial_Survey_IPHACON20215" 
+This document has been prepared as a companion handbook for the participants of Pre conference workshops on Spatial Epidemiology and Survey Data Analysis during Indian Public Health National Conference 2025 held at KLE Convention Centre, Belagavi, Karnataka, India. 
